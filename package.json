@@ -1,6 +1,6 @@
 {
-  "name": "traaittCASH-crypto",
-  "version": "3.1.0",
+  "name": "traaittcash-crypto",
+  "version": "0.0.1",
   "description": "Node C++ Addon for traaittCASH Cryptographic Functions",
   "main": "index.js",
   "scripts": {
